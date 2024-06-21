@@ -1,0 +1,77 @@
+age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,target
+57,male,angina,150,276,no_sugar,normal,112,yes,0.6,flat,1,Normal,0
+59,male,cardiac,170,288,no_sugar,normal,159,no,0.2,flat,0,Reversial  defect,0
+57,male,abnormal,150,126,sugar,abnormal,173,no,0.2,down,1,Reversial  defect,1
+56,female,angina,134,409,no_sugar,normal,150,yes,1.9,flat,2,Reversial  defect,0
+71,female,abnormal,110,265,sugar,normal,130,no,0.0,down,1,Fixed defect,1
+57,male,abnormal,150,168,no_sugar,abnormal,174,no,1.6,down,0,Fixed defect,1
+46,female,angina,138,243,no_sugar,normal,152,yes,0.0,flat,0,Fixed defect,1
+56,female,angina,200,288,sugar,normal,133,yes,4.0,up,2,Reversial  defect,0
+54,male,angina,122,286,no_sugar,normal,116,yes,3.2,flat,2,Fixed defect,0
+54,male,abnormal,125,273,no_sugar,normal,152,no,0.5,up,1,Fixed defect,1
+57,male,angina,140,192,no_sugar,abnormal,148,no,0.4,flat,0,Normal,1
+59,male,cardiac,178,270,no_sugar,normal,145,no,4.2,up,0,Reversial  defect,1
+52,male,asymptomatic,120,325,no_sugar,abnormal,172,no,0.2,down,0,Fixed defect,1
+40,male,angina,110,167,no_sugar,normal,114,yes,2.0,flat,0,Reversial  defect,0
+46,female,asymptomatic,105,204,no_sugar,abnormal,172,no,0.0,down,0,Fixed defect,1
+44,male,abnormal,140,235,no_sugar,normal,180,no,0.0,down,0,Fixed defect,1
+34,female,asymptomatic,118,210,no_sugar,abnormal,192,no,0.7,down,0,Fixed defect,1
+54,male,angina,120,188,no_sugar,abnormal,113,no,1.4,flat,1,Reversial  defect,0
+46,male,angina,140,311,no_sugar,abnormal,120,yes,1.8,flat,2,Reversial  defect,0
+61,male,angina,138,166,no_sugar,normal,125,yes,3.6,flat,1,Fixed defect,0
+64,male,cardiac,170,227,no_sugar,normal,155,no,0.6,flat,0,Reversial  defect,1
+56,male,angina,130,283,sugar,normal,103,yes,1.6,up,0,Reversial  defect,0
+67,male,angina,120,237,no_sugar,abnormal,71,no,1.0,flat,0,Fixed defect,0
+71,female,asymptomatic,160,302,no_sugar,abnormal,162,no,0.4,down,2,Fixed defect,1
+44,female,abnormal,118,242,no_sugar,abnormal,149,no,0.3,flat,1,Fixed defect,1
+40,male,angina,152,223,no_sugar,abnormal,181,no,0.0,down,0,Reversial  defect,0
+59,male,cardiac,160,273,no_sugar,normal,125,no,0.0,down,0,Fixed defect,0
+51,male,angina,140,261,no_sugar,normal,186,yes,0.0,down,0,Fixed defect,1
+57,male,angina,165,289,sugar,normal,124,no,1.0,flat,3,Reversial  defect,0
+50,female,angina,110,254,no_sugar,normal,159,no,0.0,down,0,Fixed defect,1
+64,male,angina,128,263,no_sugar,abnormal,105,yes,0.2,flat,1,Reversial  defect,1
+61,male,angina,140,207,no_sugar,normal,138,yes,1.9,down,1,Reversial  defect,0
+62,male,angina,120,267,no_sugar,abnormal,99,yes,1.8,flat,2,Reversial  defect,0
+45,male,angina,104,208,no_sugar,normal,148,yes,3.0,flat,0,Fixed defect,1
+66,female,cardiac,150,226,no_sugar,abnormal,114,no,2.6,up,0,Fixed defect,1
+63,male,angina,130,254,no_sugar,normal,147,no,1.4,flat,1,Reversial  defect,0
+51,male,abnormal,125,245,sugar,normal,166,no,2.4,flat,0,Fixed defect,1
+48,male,abnormal,124,255,sugar,abnormal,175,no,0.0,down,2,Fixed defect,1
+40,male,cardiac,140,199,no_sugar,abnormal,178,yes,1.4,down,0,Reversial  defect,1
+45,male,angina,115,260,no_sugar,normal,185,no,0.0,down,0,Fixed defect,1
+52,male,abnormal,138,223,no_sugar,abnormal,169,no,0.0,down,4,Fixed defect,1
+59,male,asymptomatic,140,221,no_sugar,abnormal,164,yes,0.0,down,0,Fixed defect,1
+62,male,asymptomatic,128,208,sugar,normal,140,no,0.0,down,0,Fixed defect,1
+41,male,abnormal,130,214,no_sugar,normal,168,no,2.0,flat,0,Fixed defect,1
+44,male,asymptomatic,120,263,no_sugar,abnormal,173,no,0.0,down,0,Reversial  defect,1
+43,male,angina,132,247,sugar,normal,143,yes,0.1,flat,4,Reversial  defect,0
+52,male,angina,128,204,sugar,abnormal,156,yes,1.0,flat,0,0,0
+52,male,asymptomatic,128,205,sugar,abnormal,184,no,0.0,down,0,Fixed defect,1
+58,female,angina,170,225,sugar,normal,146,yes,2.8,flat,2,Normal,0
+55,male,angina,160,289,no_sugar,normal,145,yes,0.8,flat,1,Reversial  defect,0
+48,male,angina,130,256,sugar,normal,150,yes,0.0,down,2,Reversial  defect,0
+45,male,angina,142,309,no_sugar,normal,147,yes,0.0,flat,3,Reversial  defect,0
+41,male,asymptomatic,135,203,no_sugar,abnormal,132,no,0.0,flat,0,Normal,1
+60,female,abnormal,102,318,no_sugar,abnormal,160,no,0.0,down,1,Fixed defect,1
+58,male,angina,125,300,no_sugar,normal,171,no,0.0,down,2,Reversial  defect,0
+62,female,angina,160,164,no_sugar,normal,145,no,6.2,up,3,Reversial  defect,0
+69,male,abnormal,140,254,no_sugar,normal,146,no,2.0,flat,3,Reversial  defect,0
+50,male,abnormal,129,196,no_sugar,abnormal,163,no,0.0,down,0,Fixed defect,1
+68,male,angina,144,193,sugar,abnormal,141,no,3.4,flat,2,Reversial  defect,0
+60,male,angina,145,282,no_sugar,normal,142,yes,2.8,flat,2,Reversial  defect,0
+50,male,angina,150,243,no_sugar,normal,128,no,2.6,flat,0,Reversial  defect,0
+42,male,asymptomatic,120,295,no_sugar,abnormal,162,no,0.0,down,0,Fixed defect,1
+58,male,angina,150,270,no_sugar,normal,111,yes,0.8,down,0,Reversial  defect,0
+46,male,abnormal,150,231,no_sugar,abnormal,147,no,3.6,flat,0,Fixed defect,0
+55,female,asymptomatic,135,250,no_sugar,normal,161,no,1.4,flat,0,Fixed defect,1
+60,male,angina,117,230,sugar,abnormal,160,yes,1.4,down,2,Reversial  defect,0
+57,female,angina,128,303,no_sugar,normal,159,no,0.0,down,1,Fixed defect,1
+54,female,asymptomatic,132,288,sugar,normal,159,yes,0.0,down,1,Fixed defect,1
+56,female,asymptomatic,140,294,no_sugar,normal,153,no,1.3,flat,0,Fixed defect,1
+64,male,abnormal,140,335,no_sugar,abnormal,158,no,0.0,down,0,Fixed defect,0
+41,female,asymptomatic,105,198,no_sugar,abnormal,168,no,0.0,down,1,Fixed defect,1
+42,male,angina,140,226,no_sugar,abnormal,178,no,0.0,down,0,Fixed defect,1
+62,female,angina,150,244,no_sugar,abnormal,154,yes,1.4,flat,0,Fixed defect,0
+48,male,angina,122,222,no_sugar,normal,186,no,0.0,down,0,Fixed defect,1
+64,male,angina,145,212,no_sugar,normal,132,no,2.0,flat,2,Normal,0
+55,male,asymptomatic,130,262,no_sugar,abnormal,155,no,0.0,down,0,Fixed defect,1
